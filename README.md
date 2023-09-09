@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeeptiranjanSwain79
 - 👀 I’m interested in Coding
-- 🌱 I’m currently in B.Tech 2nd year
+- 🌱 I’m currently working as a Software Developer
 - 📫 How to reach me deeptiranjanswain777@gmail.com
 
 <!---
